@@ -7,7 +7,7 @@ footer_text: "Last updated: September 2022"
 
 <img class="profile-picture" src="profile.jpg">
 
-Yo! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-café. Ik ben gespecialiseerd in webdevelopment en design. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web. 
+Yo! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web. 
 
 ## Occupation
 
