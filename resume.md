@@ -7,18 +7,18 @@ footer_text: "Last updated: September 2022"
 
 <img class="profile-picture" src="profile.jpg">
 
-Yo! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web. 
+Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
 
 ## Occupation
 
 `2022 - Now`
-**Junior programmer**, _Code Café_, Utrecht
+**Junior teacher/programmer**, _Code Café_, Utrecht
 
 `2022 - Now`
 **Business owner**, _Noah Beij Webdevelopment and Media design_, Tilburg
 
 `2022 - 2022`
-**Intern**, _Koning Willem 1 College_, Den Bosch
+**Intern teacher**, _Koning Willem 1 College, webdevelopment_, Den Bosch
 
 `2021 - 2022`
 **Video producer**, _Fontys ICT Videocrew_, Tilburg
@@ -57,18 +57,18 @@ Yo! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 | Github        | Discipline              |
 | HTML          | Responsibility          |
 | CSS           | Quality/result oriented |
-| SCSS          | Act with integrity      |
-| Bootstrap     | Stress resistant        |
-| JavaScript    | Attention for details   |
-| Node          | Customer oriented       |
-| React         | Flexible                |
-| Next          | Social                  |
-| Vue           | Self Critcal            |
+| PHP           | Act with integrity      |
+| PDO/SQL       | Stress resistant        |
+| SCSS          | Attention for details   |
+| Bootstrap     | Customer oriented       |
+| JavaScript    | Flexible                |
+| Node          | Social                  |
+| React         | Self Critcal            |
+| Next          |                         |
+| Vue           |                         |
 | Svelte        |                         |
 | GSAP          |                         |
 | Three.js      |                         |
-| PHP           |                         |
-| PDO           |                         |
 | NoSQL         |                         |
 | Photoshop     |                         |
 | Illustrator   |                         |
