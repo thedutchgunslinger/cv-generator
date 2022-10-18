@@ -7,9 +7,11 @@ footer_text: "Last updated: September 2022"
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
+Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. Ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
 
 ## Occupation
+`2022 - Now`
+**Junior teacher**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers, Amersfoort
 
 `2022 - Now`
 **Junior teacher/programmer**, _Code Café_, Utrecht
