@@ -15,27 +15,49 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 **Docent/programmer**, _Code Café_, Utrecht
 
 <ul>
-    <li> test
-    <li> test
+    <li> Het maken van Video content
+    <li> Het schrijven van lesmateriaal
+    <li> Video asset generator gemaakt met React en Remotion
+    <li> Het modereren van de discord server
+    <li> Het ontwerpen van verschillende designs en diagrammen
 </ul>
 
 `2022 - Heden`
 **IT Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent, Utrecht
+<ul>
+    <li> Multiplayer VR website demo gemaakt voor de opendag
+    <li> Coachen bij het opdrachten bureau
+</ul>
 
 `2022 - 2022`
 **IT Docent**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers, Amersfoort
 
 `2022 - Heden`
 **Eigen Bedrijf**, _Noah Beij Webdevelopment and Media design_, Tilburg
+<ul>
+    <li> Het designen van posters
+    <li> Het designen en ontwikkelen van vette webapplicaties
+</ul>
 
 `2022 - 2022`
 **Stage docent**, _Koning Willem 1 College, webdevelopment_, Den Bosch
+<ul>
+    <li> Het organiseren van een hackaton
+</ul>
 
 `2021 - 2022`
 **Video producent**, _Fontys ICT Videocrew_, Tilburg
+<ul>
+    <li> Het presenteren van video's
+    <li> het bedenken en scripts schrijven voor video's
+</ul>
 
 `2020 - 2022`
 **PR**, _Fontys ICT PR crew_, Tilburg
+<ul>
+    <li> Begeleiden en rondleiden bij opendagen
+    <li> Begeleiden en rondleiden van educatieve partners
+</ul>
 
 ## Opleidingen
 
@@ -77,6 +99,7 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 | Aframe        |                         |
 | WebXR         |                         |
 | NoSQL         |                         |
+| Java         |                         |
 | Photoshop     |                         |
 | Illustrator   |                         |
 | XD/Figma      |                         |
