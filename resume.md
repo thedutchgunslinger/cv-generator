@@ -7,12 +7,12 @@ footer_text: "Laatst geupdate: februarie 2023"
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespecialiseerd in webdevelopment en design. Ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
 
 ## Werkzaamheden
 
 `2022 - Heden`
-**Docent/programmer**, _Code Café_, Utrecht
+**IT-Docent/programmeur**, _CodeCafé_, Utrecht
 
 <ul>
     <li> Het maken van Video content
@@ -23,14 +23,18 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 </ul>
 
 `2022 - Heden`
-**IT Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent, Utrecht
+**IT Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
 <ul>
     <li> Multiplayer VR website demo gemaakt voor de opendag
-    <li> Coachen bij het opdrachten bureau
+    <li> Het begeleiden van studenten bij opdrachten
 </ul>
 
 `2022 - 2022`
-**IT Docent**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers, Amersfoort
+**IT Docent**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers via CodeCafé, Amersfoort
+<ul>
+    <li> Omscholen van hoogbegaafde en/of hoogfunctioneerende mensen op het autistische spectrum
+    <li> Workshop TODO app met HTML, CSS en JavaScript
+</ul>
 
 `2022 - Heden`
 **Eigen Bedrijf**, _Noah Beij Webdevelopment and Media design_, Tilburg
@@ -49,7 +53,7 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 **Video producent**, _Fontys ICT Videocrew_, Tilburg
 <ul>
     <li> Het presenteren van video's
-    <li> het bedenken en scripts schrijven voor video's
+    <li> Het bedenken en scripts schrijven voor video's
 </ul>
 
 `2020 - 2022`
