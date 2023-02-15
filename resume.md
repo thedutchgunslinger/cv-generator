@@ -15,7 +15,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 **IT-Docent/programmeur**, _CodeCafé_, Utrecht
 
 <ul>
-    <li> Het maken van Video content
+    <li> Het maken van videocontent
     <li> Het schrijven van lesmateriaal
     <li> Video asset generator gemaakt met React en Remotion
     <li> Het modereren van de discord server
@@ -27,6 +27,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 <ul>
     <li> Multiplayer VR website demo gemaakt voor de opendag
     <li> Het begeleiden van studenten bij opdrachten
+    <li> Webdevelopment lessen aan 2 klassen
 </ul>
 
 `2022 - 2022`
@@ -37,16 +38,18 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 </ul>
 
 `2022 - Heden`
-**Eigen Bedrijf**, _Noah Beij Webdevelopment and Media design_, Tilburg
+**Eigen bedrijf**, _Noah Beij Webdevelopment and Media design_, Tilburg
 <ul>
     <li> Het designen van posters
     <li> Het designen en ontwikkelen van vette webapplicaties
 </ul>
 
 `2022 - 2022`
-**Stage docent**, _Koning Willem 1 College, webdevelopment_, Den Bosch
+**Stage Docent**, _Koning Willem 1 College, webdevelopment_, Den Bosch
 <ul>
     <li> Het organiseren van een hackaton
+    <li> HTML, CSS, JavaScript, PHP en SQL lessen geven aan 2 klassen
+    <li> Het geven van de frontend keuze vak lessen
 </ul>
 
 `2021 - 2022`
