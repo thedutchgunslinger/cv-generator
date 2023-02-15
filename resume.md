@@ -13,10 +13,10 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 
 `2022 - Now`
 **Teacher/programmer**, _Code Café_, Utrecht
--   test
--   test
--   test
--   test
+<ul>
+<li> test
+<li> test
+</ul>
 
 `2022 - Now`
 **IT teacher**, _Grafisch Lyceum Utrecht_, Webdevelopment docent, Utrecht
