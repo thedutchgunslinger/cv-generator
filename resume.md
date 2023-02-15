@@ -23,7 +23,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 </ul>
 
 `2022 - Heden`
-**IT Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
+**IT-Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
 <ul>
     <li> Multiplayer VR website demo gemaakt voor de opendag
     <li> Het begeleiden van studenten bij opdrachten
@@ -31,7 +31,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 </ul>
 
 `2022 - 2022`
-**IT Docent**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers via CodeCafé, Amersfoort
+**IT-Docent**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers via CodeCafé, Amersfoort
 <ul>
     <li> Omscholen van hoogbegaafde en/of hoogfunctioneerende mensen op het autistische spectrum
     <li> Workshop TODO app met HTML, CSS en JavaScript
@@ -53,7 +53,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 </ul>
 
 `2021 - 2022`
-**Video producent**, _Fontys ICT Videocrew_, Tilburg
+**Videoproducent**, _Fontys ICT Videocrew_, Tilburg
 <ul>
     <li> Het presenteren van video's
     <li> Het bedenken en scripts schrijven voor video's
@@ -88,7 +88,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 | Technies      | Soft                    |
 | ------------- | ----------------------- |
 | Git           | Leergierig       |
-| Github        | gedisciplineerd           |
+| Github        | Gedisciplineerd           |
 | HTML          | Verantwoordelijk         |
 | CSS           | Resultaat gefocused |
 | PHP           | Integer handelen      |
