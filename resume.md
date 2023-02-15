@@ -11,6 +11,9 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 
 ## Occupation
 `2022 - Now`
+**Junior teacher**, _Grafisch Lyceum Utrecht_, Webdevelopment docent, Utrecht
+
+`2022 - Now`
 **Junior teacher**, _Stichting ITvitea_, Java Traineeship voor hoogbegaafde deelnemers, Amersfoort
 
 `2022 - Now`
@@ -71,6 +74,8 @@ Hi! Ik ben Noah Beij, een jonge en vrolijke docent bij Code-Café. Ik ben gespec
 | Svelte        |                         |
 | GSAP          |                         |
 | Three.js      |                         |
+| Aframe |                         |
+| WebXR |                         |
 | NoSQL         |                         |
 | Photoshop     |                         |
 | Illustrator   |                         |
