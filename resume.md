@@ -1,6 +1,6 @@
 ---
 title: Noah Beij 🐝
-footer_text: "Laatst geupdate: februarie 2023"
+footer_text: "Laatst geupdate: februari 2023"
 ---
 
 ## Over mij
