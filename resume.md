@@ -7,7 +7,7 @@ footer_text: "Laatst geupdate: Juni 2023"
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb ongeveer 7 jaar ervaring in HTML, CSS, JS, PHP en SQL. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Daarnaast werk ik veel met 3d, augmented en virtual reality op het web.
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 7 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web.
 
 ## Werkzaamheden
 
@@ -18,26 +18,38 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Het maken van videocontent
     <li> Het schrijven van lesmateriaal
     <li> Video asset generator gemaakt met React en Remotion
-    <li> Het ontwikkelen van een interne tool met Next.js, Chakra UI en RemarkJs
+    <li> Het ontwikkelen van een interne tool met Vue.js, vuex, remarkJs en TailwindCSS.
+    <li> Het ontwikkelen van een nieuwe presentatie workflow met marpit markdown naar pptx en pdf genarator.    
     <li> Het modereren van de discord server
     <li> Het ontwerpen van verschillende designs en diagrammen
+    <li> Zakelijke training voorzien over SCRUM.
 </ul>
+
+`2023 - Heden` 
+**IT-Docent**, _SpiralTrain_, Front-end docent via CodeCafé, Houten
+
+-   Training geven aan bedrijven over het Front-end framework Vue.js.
+-   Training geven aan bedrijven over Typescript.
+-   Training geven aan bedrijven over Advanced JavaScript.
 
 `2023 - Heden`
 **IT-Docent**, _Hogeschool Utrecht_, Front-end docent via CodeCafé, Utrecht
 
 <ul>
-    <li> Front-end lessen voorzien.
-    <li> Het begeleiden van studenten bij opdrachten
+    <li> Blok-D in de propoduese Front-end lessen voorzien. (HTML, CSS, JavaScript)
+    <li> Blok-A in de propoduese Moddeling lessen voorzien. (UML, ERP, usecase, customer journy, SQL, postgreSQL)
+    <li> Het begeleiden van studenten bij het project stationszuilen.
 </ul>
 
-`2022 - Heden`
+`2022 - 2023`
 **IT-Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
 
 <ul>
     <li> Multiplayer VR website demo gemaakt voor de opendag
     <li> Het begeleiden van studenten bij opdrachten
-    <li> Webdevelopment lessen aan 2 klassen
+    <li> Het begeleiden en helpen van de zakelijke en softskills van studenten bij het bureau.
+    <li> Het organiseren van de eind expo van het bureau.
+    <li> Webdevelopment lessen aan de eerste jaars. (HTML, CSS, JavaScript, PHP, SQL)
 </ul>
 
 `2022 - 2022`
@@ -66,6 +78,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> HTML, CSS, JavaScript, PHP en SQL lessen geven aan 2 klassen
     <li> Het geven van de frontend keuze vak lessen
     <li> Front-end lessen voorzien met oa Vue.js en SEO
+    <li> [2023] workshop gegeven over een Augmented Reality product viewer. (A-Frame)
 </ul>
 
 `2021 - 2022`
@@ -118,7 +131,8 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 | React         | Zelf kritisch         |
 | Next          |                       |
 | Vue           |                       |
-| Svelte        |                       |
+| Svelte  |                       |
+|  SvelteKit    |                       |
 | GSAP          |                       |
 | Three.js      |                       |
 | Babylon.js    |                       |
