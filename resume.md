@@ -1,13 +1,13 @@
 ---
 title: Noah Beij 🐝
-footer_text: "Laatst geupdate: Juni 2023"
+footer_text: "Laatst geupdate: December 2023"
 ---
 
 ## Over mij
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 7 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web.
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Check ook mijn [portfolio](https://www.nbeij.nl)!
 
 ## Werkzaamheden
 
@@ -24,6 +24,22 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Het ontwerpen van verschillende designs en diagrammen
     <li> Zakelijke training voorzien over SCRUM.
 </ul>
+
+`2023 - Heden`
+**Moderator**, _Discord_, Caveman studio, contractorsVR showdown
+
+- Het modereren van de discord server
+- Het bijhouden van de tickets en alpha tester applicaties
+- Het Designen van stream elementen
+- Mensen begeleiden in doelgericht feedback verzamelen
+
+
+
+`2023 - Heden`
+**IT-Docent**, _Curio_, Web Docent, Breda en Roosendaal
+
+- projecten begeleiden
+- Laravel lessen geven
 
 `2023 - Heden` 
 **IT-Docent**, _SpiralTrain_, Front-end docent via CodeCafé, Houten
@@ -127,11 +143,14 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 | SCSS          | Attentie voor details |
 | Bootstrap     | Gebruiker gefocused   |
 | JavaScript    | Flexible              |
+| Typescript    | Creatief              |
 | Node          | Sociaal               |
 | React         | Zelf kritisch         |
 | Next          |                       |
 | Vue           |                       |
 | Svelte  |                       |
+| angular       |                       |
+| Laravel       |                       |
 |  SvelteKit    |                       |
 | GSAP          |                       |
 | Three.js      |                       |
@@ -147,6 +166,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 | Blender       |                       |
 | SEO           |                       |
 | Video editing |                       |
+| RATK          |                       |
 
 ## Certificaten
 
