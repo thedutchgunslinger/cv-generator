@@ -64,7 +64,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 **IT-Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
 
 <ul>
-    <li> Multiplayer VR website demo gemaakt voor de opendag
+    <li> Multiplayer VR website demo gemaakt voor de open dag
     <li> Het begeleiden van studenten bij opdrachten
     <li> Het begeleiden en helpen van de zakelijke en softskills van studenten bij het bureau.
     <li> Het organiseren van de eind expo van het bureau.
@@ -173,7 +173,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 
 ## Certificaten
 
-`2023` Het nut van formatief evualuren via Pieter Kristiaan den Dekker
+`2023` Het nut van formatief evalueren via Pieter Kristiaan den Dekker
 
 `2021`
 Video Training van Megenveenstra
