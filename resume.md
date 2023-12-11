@@ -173,7 +173,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 
 ## Certificaten
 
-`2023` Het nut van formatief evualuren via Pierter Kristiaan den Dekker
+`2023` Het nut van formatief evualuren via Pieter Kristiaan den Dekker
 
 `2021`
 Video Training van Megenveenstra
