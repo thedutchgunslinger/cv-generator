@@ -7,7 +7,7 @@ footer_text: "Laatst geupdate: December 2023"
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment en design. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Check ook mijn [portfolio](https://www.nbeij.nl)!
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment, design en XR. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Hier help ik ook een grote VR game studio mee met hun nieuwe release. Check ook mijn [portfolio](https://www.nbeij.nl)!
 
 ## Werkzaamheden
 
@@ -26,12 +26,13 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 </ul>
 
 `2023 - Heden`
-**Moderator**, _Discord_, Caveman studio, contractorsVR showdown
+**Moderator**, _Caveman Studio_, Discord, contractorsVR showdown
 
 - Het modereren van de discord server
 - Het bijhouden van de tickets en alpha tester applicaties
 - Het Designen van stream elementen
 - Mensen begeleiden in doelgericht feedback verzamelen
+- Er voor zorgen dat iedereen zich aan de NDA houdt.
 
 
 
@@ -55,6 +56,8 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Blok-D in de propoduese Front-end lessen voorzien. (HTML, CSS, JavaScript)
     <li> Blok-A in de propoduese Moddeling lessen voorzien. (UML, ERP, usecase, customer journy, SQL, postgreSQL)
     <li> Het begeleiden van studenten bij het project stationszuilen.
+    <li> Blok-B TI lessen voorzien. (Raspberry Pico, MicroPython)
+    <li> Blok-B STEAM project begeleiden.
 </ul>
 
 `2022 - 2023`
@@ -82,7 +85,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 <ul>
     <li> Het designen van posters
     <li> Het designen en ontwikkelen van vette webapplicaties
-    <li> Het onderzoeken van WebXR doormiddel van A-Frame (<a href='https://vr.nbeij.nl' target=_blank>A-Frame project</a>) en Babylon.js (<a href='https://babylon.nbeij.nl' target=_blank>Babylon project</a>)
+    <li> Het onderzoeken van WebXR doormiddel van A-Frame (<a href='https://vr.nbeij.nl' target=_blank>A-Frame project</a>), Babylon.js (<a href='https://babylon.nbeij.nl' target=_blank>Babylon project</a>) en three.js (<a href='https://xr.nbeij.nl' target=_blank>Three project</a>)
     <li> Het ontwikkelen van een tutorial blog portfolie in SvelteKit (<a href='https://www.nbeij.nl/blog/category' target=_blank>Portfolio project</a>)
 </ul>
 
