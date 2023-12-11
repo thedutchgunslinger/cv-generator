@@ -7,7 +7,7 @@ footer_text: "Laatst geupdate: December 2023"
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment, design en XR. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Hier heb ik ook lessen in gegeven tijdens mijn stage als ICT docent bij Het Koning Willem 1 College. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Hier help ik ook een grote VR game studio mee met hun nieuwe release. Check ook mijn [portfolio](https://www.nbeij.nl)!
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment, design en XR. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Hier help ik ook een grote VR game studio mee met hun nieuwe release. Check ook mijn [portfolio](https://www.nbeij.nl)!
 
 ## Werkzaamheden
 
