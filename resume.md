@@ -1,13 +1,13 @@
 ---
 title: Noah Beij 🐝
-footer_text: "Laatst geupdate: December 2023"
+footer_text: "Laatst geupdate: Oktober 2025"
 ---
 
 ## Over mij
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment, design en XR. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Hier help ik ook een grote VR game studio mee met hun nieuwe release. Check ook mijn [portfolio](https://www.nbeij.nl)!
+Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd in webdevelopment, design en XR. Ik heb meer dan 8 jaar ervaring in HTML, CSS, JS, PHP en SQL en diverse programmeertalen, libraries en frameworks. Verder geef ik les op de Hogeschool Utrecht en heb ik 8 maanden les gegeven op het Grafisch Lyceum Utrecht en heb ik verschillende zakelijke trainingen gegeven. Daarnaast doe ik veel onderzoek over 3d, augmented en virtual reality op het web. Hier heb ik ook veel connecties in de industrie door mijn werk als docent en mijn eigen bedrijf en eigen intresses. Connecties zoals, Unity, Meta en bijna alle grote spelers in de xr industrie.
 
 ## Werkzaamheden
 
@@ -25,8 +25,8 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Zakelijke training voorzien over SCRUM.
 </ul>
 
-`2023 - Heden`
-**Moderator**, _Caveman Studio_, Discord, contractorsVR showdown
+`2023 - 2025`
+**Moderator**, _Caveman Studio_, Discord, contractors VR showdown Exfilzone
 
 - Het modereren van de discord server
 - Het bijhouden van de tickets en alpha tester applicaties
@@ -34,22 +34,24 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 - Mensen begeleiden in doelgericht feedback verzamelen
 - Er voor zorgen dat iedereen zich aan de NDA houdt.
 
+`2025 - 2025`
+**React Native docent**, _ROC Midden Nederland_, Nieuwegein
+- Op spoed lessen voorzien in React Native voor een groep examen studenten.
 
-
-`2023 - Heden`
+`2023 - 2023`
 **IT-Docent**, _Curio_, Web Docent, Breda en Roosendaal
 
 - projecten begeleiden
 - Laravel lessen geven
 
-`2023 - Heden` 
+`2023 - 2024` 
 **IT-Docent**, _SpiralTrain_, Front-end docent via CodeCafé, Houten
 
 -   Training geven aan bedrijven over het Front-end framework Vue.js.
 -   Training geven aan bedrijven over Typescript.
 -   Training geven aan bedrijven over Advanced JavaScript.
 
-`2023 - Heden`
+`2023 - 2024`
 **IT-Docent**, _Hogeschool Utrecht_, Front-end docent via CodeCafé, Utrecht
 
 <ul>
@@ -60,7 +62,7 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Blok-B STEAM project begeleiden.
 </ul>
 
-`2022 - 2023`
+`2022 - 2025`
 **IT-Docent**, _Grafisch Lyceum Utrecht_, Webdevelopment docent via CodeCafé, Utrecht
 
 <ul>
@@ -69,6 +71,8 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
     <li> Het begeleiden en helpen van de zakelijke en softskills van studenten bij het bureau.
     <li> Het organiseren van de eind expo van het bureau.
     <li> Webdevelopment lessen aan de eerste jaars. (HTML, CSS, JavaScript, PHP, SQL)
+    <li> Het opzetten van de nieuwe xr leerweg bij software development.
+    <li> Lessen voorzien over XR, unity, blender, c# en webXR.
 </ul>
 
 `2022 - 2022`
@@ -170,6 +174,10 @@ Hi! Ik ben Noah Beij, een vrolijke docent bij CodeCafé. Ik ben gespecialiseerd 
 | SEO           |                       |
 | Video editing |                       |
 | RATK          |                       |
+| Unity          |                       |
+| XRIT          |                       |
+| VRIF          |                       |
+| MetaSDK          |                       |
 
 ## Certificaten
 
